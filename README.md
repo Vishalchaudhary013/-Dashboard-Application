@@ -57,22 +57,6 @@ mern_project/
 - You can switch the API endpoint in `UserProfile.jsx` to use MockAPI.io or your own JSON server.
 - For advanced state management, you can integrate Redux Toolkit.
 
-## Project Structure
-```
-mern_project/
-├── public/
-│   └── ... (static assets)
-├── src/
-│   ├── assets/           # Images, logos, etc.
-│   ├── components/       # Reusable UI components
-│   ├── context/          # Context API files (e.g., UserContext.jsx)
-│   ├── pages/            # Page components (LoginSignup.jsx, Dashboard.jsx, UserProfile.jsx)
-│   ├── App.jsx           # Main app component
-│   ├── App.css           # Global styles
-│   └── main.jsx          # Entry point
-├── package.json
-├── README.md
-└── ... (other config files)
-```
+
 
 
